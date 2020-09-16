@@ -7,3 +7,6 @@
 init: start git-markdown task
 feat: add basic page layout
 refactor: formatting
+refactor: formatting
+refactor: add inforamtion
+refactor: add inforamtion
