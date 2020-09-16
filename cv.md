@@ -4,6 +4,6 @@
 4. Education: Minsk State Linguistic University (2011-2017, Chinese language, English languge, Russian as a foreign language), Beijing Language and Culture University (2015-2016, Advanced Chinese Courses)
 5. English level B1.
 
-init: start Markdown & Git task
-refactor: formatting
-refactor: white-space
+init: Create cv.md
+refactor: Update cv.md
+refactor: Update cv.md
